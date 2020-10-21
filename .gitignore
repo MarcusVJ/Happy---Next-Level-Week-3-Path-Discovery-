@@ -1,1 +1,3 @@
 node_modules/
+src/database/fakedata.js
+src/database/test.js

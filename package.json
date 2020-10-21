@@ -1,5 +1,5 @@
 {
-  "name": "nlw3",
+  "name": "nlw3-path-discovery",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.1.1",
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.6",
+    "sqlite-async": "^1.1.0"
   }
 }
